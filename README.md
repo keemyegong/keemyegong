@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000080&height=170&section=header&text=keemyegong&&fontColor=ffffff&fontSize=30&fontAlign=15&fontAlignY=35&animation=twinkling)
 
 <div align="center">
 
