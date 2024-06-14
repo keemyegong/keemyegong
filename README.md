@@ -1,3 +1,4 @@
+<br>
 
 <div align="center">
 
@@ -67,6 +68,8 @@
   fridaycomeslow@gmail.com
 
 </div>
+
+<br>
 
 <!--
 **okorion/okorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
