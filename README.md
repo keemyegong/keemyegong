@@ -1,13 +1,16 @@
 <br>
 
 <div align="center">
-
-  <img width="500" alt="image" src="https://github.com/keemyegong/keemyegong/assets/156387250/f673e077-89f1-4ddb-a6ec-35e4ac02b3bb">
+  <img width="500" alt="image" ![KEEMYEGONG](
+    src="https://github.com/user-attachments/assets/1cc95b7e-32e5-4d80-8e8a-114802dc0717")>
   
+  <br>
   <br>
   
   <h3> 🔎 About Me </h3>
-  김예운 / Fullstack Developer
+  김예운<br>
+  <li>FrontEnd Developer<br></li>
+  <li>UI/UX Design</li>
 
   <br>
   <br>
@@ -65,23 +68,8 @@
 <br>
 
   <h3> 📫 Contact  </h3>
-  fridaycomeslow@gmail.com
+  keemyegong@gmail.com
 
 </div>
 
 <br>
-
-<!--
-**okorion/okorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
