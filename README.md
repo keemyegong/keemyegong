@@ -96,7 +96,7 @@
   </tr>
     <tr>
     <td>웹소켓 통신 실시간 게임 PONGDANG (2024)</td>
-     <td>상대의 비치볼을 밀어내라! 육지 위에 마지막까지 살아남는 플레이어가 승자가 되는 전략 알 까기 게임</td>
+     <td>육지 위에 마지막까지 살아남는 플레이어가 승자가 되는 전략 알 까기 게임</td>
     <td>Python, Pygame, WebSocket, Adobe</td>
    <td>https://github.com/keemyegong/project-PONDANG.git</td>
   </tr>
