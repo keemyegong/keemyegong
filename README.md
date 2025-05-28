@@ -77,7 +77,7 @@
     <td>응급상황 신속 지원 앱 PushOfLife (2024)</td>
      <td>Wear OS 기반 응급상황 알림 및 CPR 실시간 피드백 서비스</td>
     <td>Kotlin, Android SDK, Redis, MongoDB, WebFlux, BLE, etc.</td>
-   <td>https://github.com/keemyegong/project-PushOfLife.git</td>
+   <td>https://github.com/keemyegong/project-POL.git</td>
   </tr>
   <tr>
     <td>식단/식비 자동화 앱 AllEat! (2024)</td>
