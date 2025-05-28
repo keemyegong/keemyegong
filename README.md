@@ -10,7 +10,7 @@
   <h3> 🔎 About Me </h3>
   직관적인 인터페이스, 다채로운 인터랙션을 추구하는 <b>김예운</b>입니다<br>
   <li>FrontEnd Developer<br></li>
-  <li>UI/UX Design</li>
+  <li>UI/UX 기획</li>
 
   <br>
 
